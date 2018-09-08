@@ -1,10 +1,28 @@
 h1{
-  color: red;
+
   font-family: 'Gloria Hallelujah', cursive;
 }
 
 p{
    text-align: justify;
    font-family: 'Kaushan Script', cursive;
-   font-size: 115%;
+   font-size: 110%;
  }
+
+h3{
+
+
+    font-family: 'Ruslan Display', cursive;
+
+}
+
+footer{
+
+    font-family: 'Great Vibes', cursive;
+
+  }
+body{
+
+
+
+}
